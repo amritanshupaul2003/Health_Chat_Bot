@@ -1,5 +1,1 @@
-# Firebase Studio
-
-This is a NextJS starter in Firebase Studio.
-
-To get started, take a look at src/app/page.tsx.
+HealthBot is an AI-powered symptom checker that analyzes user-provided symptoms and suggests potential conditions. Built with **Next.js**, **Google's Genkit**, and **Tailwind CSS**, it features an interactive chat interface, provides detailed reasoning, and recommends seeking professional medical advice.
